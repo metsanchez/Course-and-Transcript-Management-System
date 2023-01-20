@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7Aezt0Fno2cXF3MU0a8Wdn0A+uW79PWT7opAroMixoosDvqmcmq9iKdro7mEPpf0V1PD5qAKW1DcbAJyprxuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\revios\\Desktop\\200601078_Metehan_Yanik\\200601078_Metehan_Yanik\\Ders ve Transkript Yönetim Sistemi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\revios\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\revios\\.nuget\\packages\\npgsql\\7.0.1\\npgsql.7.0.1.nupkg.sha512",
+    "C:\\Users\\revios\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
