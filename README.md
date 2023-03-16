@@ -1,4 +1,4 @@
-# Ders-ve-Transkript-Yonetim-Sistemi
+# Course and Transcript Management System
 
 ![ders ekle](https://user-images.githubusercontent.com/81028389/213793348-70c7e45c-68f0-4a94-811b-0e74bc1311f2.png)
 
